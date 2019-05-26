@@ -1,3 +1,4 @@
 /node_modules
 /.idea
 client\src\theme\fullstack-theme-master
+config\keys.dev.js
